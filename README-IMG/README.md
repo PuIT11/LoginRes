@@ -4,4 +4,3 @@
 <br>
 <h2>View<h2>
 ![text](log.png)
-![atext](res.png)
